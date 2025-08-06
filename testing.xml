@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="BasicSuite">
+    <test name="SampleTest">
+        <classes>
+            <class name="com.selenium.testNG.testNGCellTech.cellTechFunctionalities.java"/>
+        </classes>
+    </test>
+</suite>
